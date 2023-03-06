@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm G43D05</h1>
+<h1 align="center">Hi 👋, I'm Gadu05_</h1>
 <h3 align="center">I'm a programmer. That's it.</h3>
 
 <p align="left"> <a href="https://twitter.com/g43d05" target="blank"><img src="https://img.shields.io/twitter/follow/g43d05?logo=twitter&style=for-the-badge" alt="g43d05" /></a> </p>
